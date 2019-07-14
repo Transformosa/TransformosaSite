@@ -107,13 +107,12 @@ header .logo {
 header .logo a {
    display: block;
    padding: 0;
-   margin: 0;
+   margin-right: 10px;
    height: 18px;
-   width: 91px;
    line-height: 18px;
 
    position: absolute;
-   left: 12px;
+   left: 0px;
    top: 16px;
 }
 
